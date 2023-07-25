@@ -1,4 +1,4 @@
-![logo](https://github.com/dragINDIANA8/dragINDIANA8/blob/main/banner.png.png)
+![logo](https://github.com/dragINDIANA8/dragINDIANA8/blob/main/banner.png.png?raw=true)
 <h1 align="center">Hi 👋, I'm Shubhranshu Shekhar Das</h1>
 <h3 align="center">2nd Year Engineering Student From India</h3>
 
