@@ -1,8 +1,10 @@
 ![logo](https://github.com/dragINDIANA8/dragINDIANA8/blob/main/banner.png.png?raw=true)
 <h1 align="center">Hi 👋, I'm Shubhranshu Shekhar Das</h1>
 <h3 align="center">2nd Year Engineering Student From India</h3>
+<h4 align="center">**Programming is 10% writing code and 90% understanding why it’s not working😆**</h4>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragindiana8&label=Profile%20views&color=0e75b6&style=flat" alt="dragindiana8" /> </p>
 
@@ -10,7 +12,6 @@
 
 - 📫 How to reach me **shubhranshudas143@gmail.com**
 
-- ⚡ Fun fact **I may be ugly from outside but beautiful from the inside but who cares coz inside doesnt't matter 😆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dragindiana8&show_icons=true&locale=en" alt="dragindiana8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dragindiana8&" alt="dragindiana8" /></p>
+
+
+
