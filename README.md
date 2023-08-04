@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **shubhranshudas143@gmail.com**
+- 📫 Email : **shubhranshudas143@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
