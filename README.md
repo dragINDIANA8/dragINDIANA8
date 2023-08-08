@@ -1,6 +1,6 @@
 ![logo](https://github.com/dragINDIANA8/dragINDIANA8/blob/main/banner.png.png?raw=true)
 <h1 align="center">Hi 👋, I'm Shubhranshu Shekhar Das</h1>
-<h3 align="center">2nd Year Engineering Student From India</h3>
+<h3 align="center">Computer Science & Engineering Student From India</h3>
 <h4 align="center">**Programming is 10% writing code and 90% understanding why it’s not working😆**</h4>
 
 
