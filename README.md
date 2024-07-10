@@ -27,6 +27,7 @@
 <h3 align="left">IDE Familiar with:</h3>
 <p align="left">
 <a href="https://code.visualstudio.com/brand" target="blank"><img align="center" src="https://code.visualstudio.com/assets/branding/app-icon.png" height="50" width="50" /></a>
+<a href="https://www.jetbrains.com/idea/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" height="50" width="50" /></a>
   
 </p>
 
