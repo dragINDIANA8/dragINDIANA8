@@ -4,7 +4,7 @@
 <h4 align="center">**Programming is 10% writing code and 90% understanding why it’s not working😆**</h4>
 
 
-<img align="right" alt="coding" width="400"
+<img align="right" alt="coding" height ="200" width="300"
   src="https://raw.githubusercontent.com/SupianIDz/SupianIDz/main/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragindiana8&label=Profile%20views&color=0e75b6&style=flat" alt="dragindiana8" /> </p>
