@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragindiana8&label=Profile%20views&color=0e75b6&style=flat" alt="dragindiana8" /> </p>
 
-- 🌱 I’m currently learning **Web Development, DSA with Java and App Development**
+- 🌱 I’m currently learning **Web Development and DSA with Java **
 
 - 📫 How to reach me : **shubhdas29004@gmail.com**
 
