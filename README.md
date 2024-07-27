@@ -9,11 +9,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dragindiana8&label=Profile%20views&color=0e75b6&style=flat" alt="dragindiana8" /> </p>
 
-- 🌱 I’m currently learning **Web Development and DSA with Java **
+- 🌱 I’m currently learning Java, DSA and Web Development
 
 - 📫 How to reach me : **shubhdas29004@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social Profiles: </h3>
 <p align="left">
 <a href="https://x.com/Shubhdas143" target="blank"><img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/07/twitter_x-logo-freelogovectors.net_.png" alt="https://x.com/shubhdas143" height="40" width="50" /></a>
 <a href="https://www.linkedin.com/in/shubhranshudas143/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhranshudas143/" height="30" width="40" /></a>
