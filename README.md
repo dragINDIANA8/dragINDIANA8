@@ -13,7 +13,7 @@
 
 - 📫 How to reach me : **shubhdas29004@gmail.com**
 
-- 🚀 LinkTree : https://linktr.ee/shubhranshudas143
+- 🚀 LinkTree : **https://linktr.ee/shubhranshudas143**
 
 <h3 align="left">Social Profiles: </h3>
 <p align="left">
