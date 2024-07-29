@@ -13,6 +13,8 @@
 
 - 📫 How to reach me : **shubhdas29004@gmail.com**
 
+- 🚀 LinkTree : https://linktr.ee/shubhranshudas143
+
 <h3 align="left">Social Profiles: </h3>
 <p align="left">
 <a href="https://x.com/Shubhdas143" target="blank"><img align="center" src="https://cdn.freelogovectors.net/wp-content/uploads/2023/07/twitter_x-logo-freelogovectors.net_.png" alt="https://x.com/shubhdas143" height="40" width="50" /></a>
