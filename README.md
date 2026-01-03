@@ -1,4 +1,4 @@
-<img src="https://github.com/dragINDIANA8/dragINDIANA8/blob/main/banner.png.png?raw=true" alt="logo" width="auto" height="400">
+
 
 <h1 align="center">Hey 👋, I'm Shubhranshu Shekhar Das </h1>
 <h3 align="center"> A Passionate Computer Science Engineer From India 💫</h3>
